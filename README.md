@@ -6,6 +6,8 @@
 ```bash
 # Clone this repository
 git clone https://github.com/nonbeing/sequelizer.git
+OR
+git clone git@github.com:nonbeing/sequelizer.git
 # Go into the repository
 cd sequelizer
 # Install dependencies
@@ -16,7 +18,7 @@ npm start
 
 Or do the same by executing one line
 ```bash
-git clone https://github.com/nonbeing/sequelizer.git && cd sequelizer && npm install && npm start
+git clone git@github.com:nonbeing/sequelizer.git && cd sequelizer && npm install && npm start
 ```
 
 ![screenshot](https://img.alicdn.com/tfs/TB1dxPomxGYBuNjy0FnXXX5lpXa-845-649.png)
