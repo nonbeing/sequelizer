@@ -5,7 +5,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/andyforever/sequelizer.git
+git clone https://github.com/nonbeing/sequelizer.git
 # Go into the repository
 cd sequelizer
 # Install dependencies
