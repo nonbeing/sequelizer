@@ -1,4 +1,4 @@
-# Sequelizer
+# andyforever/sequelizer
 
 ### A desktop application to export sequelize models automatically and visually.
 
@@ -16,7 +16,7 @@ npm start
 
 Or do the same by executing one line
 ```bash
-git clone https://github.com/andyforever/sequelizer.git && cd sequelizer && npm install && npm start
+git clone https://github.com/nonbeing/sequelizer.git && cd sequelizer && npm install && npm start
 ```
 
 ![screenshot](https://img.alicdn.com/tfs/TB1dxPomxGYBuNjy0FnXXX5lpXa-845-649.png)
